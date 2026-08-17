@@ -50,7 +50,7 @@ class WelcomeScreen extends StatelessWidget {
               spaceHeight = 30;
               spaceWidth = 10;
             }
-
+//for center now
             return Center(
               child: SingleChildScrollView(
                 child: Column(
