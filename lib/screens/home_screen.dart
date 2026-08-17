@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "isMe": false,
     },
     {
-      "name": "Andrew R. asad",
+      "name": "Andrew R. asadd",
       "message": "I'm good. How are you?",
       "isMe": true,
     },
